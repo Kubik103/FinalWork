@@ -1,0 +1,15 @@
+D:\ВСЕМ -СРОЧНО\семинар\итог\bin\Debug\net6.0\итог.exe
+D:\ВСЕМ -СРОЧНО\семинар\итог\bin\Debug\net6.0\итог.deps.json
+D:\ВСЕМ -СРОЧНО\семинар\итог\bin\Debug\net6.0\итог.runtimeconfig.json
+D:\ВСЕМ -СРОЧНО\семинар\итог\bin\Debug\net6.0\итог.dll
+D:\ВСЕМ -СРОЧНО\семинар\итог\bin\Debug\net6.0\итог.pdb
+D:\ВСЕМ -СРОЧНО\семинар\итог\obj\Debug\net6.0\итог.csproj.AssemblyReference.cache
+D:\ВСЕМ -СРОЧНО\семинар\итог\obj\Debug\net6.0\итог.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВСЕМ -СРОЧНО\семинар\итог\obj\Debug\net6.0\итог.AssemblyInfoInputs.cache
+D:\ВСЕМ -СРОЧНО\семинар\итог\obj\Debug\net6.0\итог.AssemblyInfo.cs
+D:\ВСЕМ -СРОЧНО\семинар\итог\obj\Debug\net6.0\итог.csproj.CoreCompileInputs.cache
+D:\ВСЕМ -СРОЧНО\семинар\итог\obj\Debug\net6.0\итог.dll
+D:\ВСЕМ -СРОЧНО\семинар\итог\obj\Debug\net6.0\refint\итог.dll
+D:\ВСЕМ -СРОЧНО\семинар\итог\obj\Debug\net6.0\итог.pdb
+D:\ВСЕМ -СРОЧНО\семинар\итог\obj\Debug\net6.0\итог.genruntimeconfig.cache
+D:\ВСЕМ -СРОЧНО\семинар\итог\obj\Debug\net6.0\ref\итог.dll
